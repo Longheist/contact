@@ -1,7 +1,7 @@
 import streamlit as st  # pip install streamlit
 
 st.header(":mailbox: we are here to cotact with You!")
-st.write("Have a Question ? We're Here to Help!)
+st.write("Have a Question ? We're Here to Help!")
 contact_form = """
 <form action="https://formsubmit.co/longheist123@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
