@@ -1,6 +1,6 @@
 import streamlit as st  # pip install streamlit
 
-st.header(":mailbox: Get In Touch With Me!")
+st.header(":mailbox: we are here to cotact with You!")
 
 contact_form = """
 <form action="https://formsubmit.co/longheist123@gmail.com" method="POST">
